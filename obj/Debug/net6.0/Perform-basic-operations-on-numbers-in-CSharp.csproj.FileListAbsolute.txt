@@ -1,0 +1,15 @@
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\bin\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.exe
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\bin\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.deps.json
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\bin\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.runtimeconfig.json
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\bin\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.dll
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\bin\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.pdb
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.csproj.AssemblyReference.cache
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.AssemblyInfoInputs.cache
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.AssemblyInfo.cs
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.dll
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\refint\Perform-basic-operations-on-numbers-in-CSharp.dll
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.pdb
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\Perform-basic-operations-on-numbers-in-CSharp.genruntimeconfig.cache
+C:\Users\LucycanLy\Csharp\Perform-basic-operations-on-numbers-in-CSharp\obj\Debug\net6.0\ref\Perform-basic-operations-on-numbers-in-CSharp.dll
